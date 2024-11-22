@@ -1,0 +1,10 @@
+list :- two types of list 
+1. order list 
+2. unorder list 
+
+tags 
+mark tag  :- for mark text
+u tag :- for underline 
+i tag :- for italic text 
+
+colspan ="4" :- 
