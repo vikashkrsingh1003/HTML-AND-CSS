@@ -1,0 +1,34 @@
+#head1{
+    font-size: 30px;
+    color: yellow;
+    text-decoration: underline;
+    background-color: blue;
+    text-decoration-color: rgb(61, 165, 42);
+    text-decoration-style: wavy;
+    font-style: italic;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#head2{
+    text-shadow: -4px 5px 2px red;
+    text-transform: capitalize;
+}
+.para{
+    text-transform: capitalize;
+    font-size:;
+}
+.container{
+    background-color: aquamarine;
+
+}
+.container h1{
+    text-align: center;
+    background-color:red;
+
+}
+.container button{
+    background-color: aqua;
+    color: blueviolet;  
+
+}
