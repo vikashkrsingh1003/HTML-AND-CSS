@@ -1,0 +1,23 @@
+.head1{
+    text-align: center;
+    font-family: "Bungee Spice", sans-serif;
+}
+#head2{
+    text-align: center;
+    font-family: "Bokor", serif;
+    
+}
+.wrapper{
+    background-color: bisque;
+    //padding-left: 20px;
+    //padding-top: 30px;
+   // padding-bottom: 30px;
+    //padding-right: 20px;
+    padding: 20px;
+
+}
+.wrapper button{
+  padding: 8px 20px;
+  background-color: brown;
+  
+}
