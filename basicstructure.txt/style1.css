@@ -15,9 +15,30 @@
     //padding-right: 20px;
     padding: 20px;
 
+    
+
 }
 .wrapper button{
   padding: 8px 20px;
   background-color: brown;
   
+
+}
+.container{
+    background-color: brown;
+    padding: 20px;
+    margin-top: 40px ;
+    margin-left: 40px ;
+    margin-right: 50px;
+
+    
+    //border: 13px double yellow;
+   // border-radius: 50px;
+   border-top-left-radius: 40px;
+   border-top-right-radius: 50px;
+   border-bottom-right-radius:40px;
+   border-bottom-left-radius:40px;
+
+   box-shadow: 3px 13px 8px 9px black;
+
 }
