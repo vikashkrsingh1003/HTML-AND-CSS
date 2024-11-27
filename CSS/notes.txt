@@ -1,0 +1,12 @@
+CSS : casecading style sheet 
+using three types 
+1 inline css :- it is used with in a tag 
+2. internal css :- with in a page 
+3. external Css :-  with all in web page 
+
+// Seletors : tag : tagname 
+             class :- .classname 
+             id    :- #idname 
+             universal :- *
+             grouping 
+             

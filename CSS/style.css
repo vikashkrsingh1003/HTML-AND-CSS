@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+.wish{
+    color: brown;
+    text-align: center;
+    font-size: 60px;
+    text-decoration:underline;
+    text-decoration-style: dotted;
+
+}
+#eve{
+    color: bisque;
+}
