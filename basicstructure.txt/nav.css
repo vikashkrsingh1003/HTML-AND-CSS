@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: rosybrown;
+    display:flex;
+    justify-content: space-around;
+    padding: 30px;
+    align-items: center;
+}
+.navbar ul{
+    display:flex;
+    list-style: none;
+    gap: 40px;
+}
