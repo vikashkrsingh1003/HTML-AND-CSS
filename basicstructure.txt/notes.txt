@@ -8,3 +8,5 @@ u tag :- for underline
 i tag :- for italic text 
 
 colspan ="4" :- 
+
+flex-wrap : wrap; used to website responsiveness 
