@@ -12,3 +12,4 @@ colspan ="4" :-
 flex-wrap : wrap; used to website responsiveness 
 what are symentic tag.?
 
+cdn :- content delivary network 
