@@ -65,12 +65,13 @@ body {
     background-color: blue;
     color: white;
     border: none;
-    padding: 10px 20px;
+    padding: 8px;
     border-radius: 15px;
     cursor: pointer;
-    margin-left: 180px;
-    margin-bottom: 60px;
+   margin-bottom: 35px;
+   margin-left: 22px;
    }
+   
   
   .card button:hover {
     background-color: #0056b3;

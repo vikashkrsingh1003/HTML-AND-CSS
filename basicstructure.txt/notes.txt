@@ -14,3 +14,5 @@ what are symentic tag.?
 
 cdn :- content delivary network 
 diff b/w flex or grid? 
+
+class pseudo salecter & element pseudo salecter ..!
