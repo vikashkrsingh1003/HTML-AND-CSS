@@ -1,0 +1,17 @@
+.parant{
+    height: 500px;
+    background-color: red;
+    margin-top: 200px;
+}
+.ch{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    /* position:absolute;
+    top: 20px; */
+    position:relative;
+    top: 30px;
+    left: 40px;
+    
+
+}

@@ -1,0 +1,28 @@
+.head1::first-letter{
+    font-size: 80px;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p::first-line{
+    text-decoration: underline;
+    color: orange;
+}
+.head1::selection{
+    background-color: red;
+    color: aliceblue;
+}
+input::placeholder{
+    color: blue;
+}
+.name::before{
+    content: "shree";
+    color: red;
+}
+.name::after{
+    content: " Singh";
+    color: orange;
+}
+input{
+    border-color: red;
+    border-radius: 10px;
+}
