@@ -1,0 +1,18 @@
+.slider{
+    height: 400px;
+    background-image: url(image/download.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@keyframes slider{
+    0%{
+        background-image: url(task.jpg.jpg);
+    }
+    30%{
+        background-image: url(thailand.jpg);
+    }
+    100%{
+        background-image: url(CSS/kerala.jpg);
+    }
+}

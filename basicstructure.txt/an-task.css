@@ -4,8 +4,8 @@
 }
 .box-pr{
 
-    height: 800px;
-    width: 800px;
+    height: 100vh;
+   
     background-color: black;
     display: flex;
     align-items: center;
@@ -16,19 +16,56 @@
 .box-ch{
     width: 200px ;
     height: 200px;
-    background-color: red;
-    box-shadow: red;
+    background-color: black;
+    border: 2px solid transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
     position: relative;
     animation-name: task;
-    animation-duration: 3s;
+    animation-duration: 2s;
     animation-iteration-count: infinite;
+    animation-direction: alternate;
     
+}
+.box-ch button{
+    padding: 8px 15px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 25px;
+    
+    animation-name: task;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+
+
 }
 
 @keyframes task{
 
-    0%{
-
+    0% {
+        
+        box-shadow: 0px 0px 30px 5px red;
     }
+    20%{
+        box-shadow:0 0 30px 5px yellow;
+    }
+
+    40%{
+        box-shadow: 0 0 30px 5px rgb(65, 2, 61);
+    }
+
+    60%{
+        box-shadow: 0 0 30px 5px blanchedalmond;
+    }
+    80%{
+        box-shadow: 0 0 30px 5px blue;
+    }
+
+    100%{
+        box-shadow: 0 0 30px 5px palevioletred;
+    }
+        
+    
 }
 
