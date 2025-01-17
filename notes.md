@@ -96,7 +96,7 @@ textarea tag -> ye box create kr deta for feedback
 
 Action Attribute -> it used for rendering the page like when we sign up then we open the login page hmm ye cheez action duara kr sakte hai
 
-<a> anger tag -> are used for link the multiple pages 
+<a> anchorr tag -> are used for link the multiple pages 
 anger tag are used any inside the tags
 
 ########################################################
